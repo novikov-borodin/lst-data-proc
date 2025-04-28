@@ -1,0 +1,10 @@
+M7R0
+I'SubLST=6"%&falseGE\[l$%$LSTGf*6&%"SG%"WG%+varepsilonG%"kG6*%"iG%#S1G%#S2G%#W1
+G%#W2G%"aG%"KG%"NG6"F$C(>8+-%)numelemsG6#9%>8%-%#VNG6%9$"""F:>8'-FB6%F>FEF:>8*-
+%$minG6$9',&F:FE!""FE?(8$FEFEFK%%trueG@$29&-%$absG6#&F@6#,&FSFEFEFEC'>8)*&FenFE
+&F@6#FEFQ>8&,&F@FE*&FjnFE-%%SHFTG6$F@FSFEFQ>8(,&FGFE*&FjnFE-Fco6$FGFSFEFQ>F@F_o
+>FGFfo6$*&F@FE&FDF]oFQ*&FGFEF_pFQF$F$F$FBf*6%%"VG%"nGF6F$6"F$-%'VectorG6$,(FWFE
+F>FQFEFEf*6#F/F$6$%)operatorG%&arrowGF$-%*piecewiseG6%31""!,(FDFET&FE!"#FE1,(FD
+FEFfqFEFQFE-F<6#T$&F\r6#FiqFdqF$F$6&FcpFDFdpF>F$F$F$Fcof*6$FcpFdp6#F66"F$C$>FS-
+F<6#FD-Fgp6$FSf*F[qF$6$F]qF^qF$-F`q6%31FE,&FDFEFfqFQ1F`sT'&F\r6#F`s$FdqFdqF$F$6
+(FcpFDFdpF>F6FSF$F$F$F$
